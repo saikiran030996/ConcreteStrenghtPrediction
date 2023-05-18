@@ -25,4 +25,6 @@ corresponds to the order of numerals along the rows of the database.
 |Age	| quantitative	| Day (1~365)	| Input Variable |
 |Concrete compressive strength	|quantitative|MPa	|Output Variable|
 
+Apart from training files, we also require a "schema" file from the client, which contains all the relevant information about the training files such as:
+Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype.
 
