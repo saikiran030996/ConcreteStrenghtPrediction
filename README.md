@@ -14,6 +14,6 @@ corresponds to the order of numerals along the rows of the database.
 
 
 | Name | Data Type | Measurement | Description |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 |Cement (component 1)|	quantitative |	kg in a m3 mixture |	Input Variable  | 
 | Blast Furnace Slag (component 2) |	quantitative |	kg in a m3 mixture	| Input Variable-- Blast furnace slag is a nonmetallic coproduct produced in the process. It consists primarily of silicates, aluminosilicates, and calcium-alumina-silicates  |
