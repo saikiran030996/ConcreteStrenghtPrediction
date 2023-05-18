@@ -5,4 +5,4 @@ To build a regression model to predict the concrete compressive strength based o
 
 ## Architecture
 
-!(C:\Users\Kiran\Desktop\ConcreteStrenghtPrediction\architecuture.jpg)
+![](architecuture.jpg)
