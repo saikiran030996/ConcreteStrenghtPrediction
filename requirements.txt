@@ -41,4 +41,5 @@ wincertstore==0.2
 xgboost==0.90
 zipp==2.0.1
 catboost
+dill
 -e .
